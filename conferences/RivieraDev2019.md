@@ -32,3 +32,5 @@
 >1. La construction d'une solution _Backend-as-a-service_, où un service _Cloud_ d'un _provider_ interagit avec un autre service _Cloud_ d'un 2e _provider_ et ainsi de suite. Et ainsi tirer parti du meilleur de chaque fournisseur.  
 **Comment gérer cela sur le plan du provisionning, du modèle de sécurité, des flux réseau ?**
 >1. La construction d'une application hébergée en _serverless_ où l'on veut être agnostique de l'infrastructure bien sûr, mais aussi du service _FaaS_ utilisé. Voire utiliser différents services _FaaS_ via le _framework_ `serverless.io`.
+
+[[Home]](../README.md)

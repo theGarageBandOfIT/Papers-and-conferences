@@ -16,6 +16,7 @@
 > - et comment déployer ses premières _stacks_ applicatives dessus
 > - enfin, comment utiliser `Kubernetes` de manière fluide pendant le processus de développement en mode _CI/CD_.
 
-* 🦊 https://gitlab.com/thegaragebandofit/kubernetes-101-workshop
-* 
-* 🎯 ![SunnyTech2019_feedback](../img/SunnyTech2019_feedback.png)
+- 🦊 https://gitlab.com/thegaragebandofit/kubernetes-101-workshop
+- 🎯 ![SunnyTech2019_feedback](../img/SunnyTech2019_feedback.png)
+
+[[Home]](../README.md)

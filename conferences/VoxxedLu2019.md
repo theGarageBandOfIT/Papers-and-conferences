@@ -12,3 +12,5 @@
 > Durant cette université, nous vous proposons de couvrir le cycle de vie complet de création de fonctions _serverless_ grâce à `OpenFaaS`, du déploiement d’`OpenFaaS` sur un _cluster_ `Kubernetes`, jusqu’au _monitoring_ des fonctions, en passant par le cycle _DevOps_ de _CI/CD_.  
 > Nous verrons toutes les problématiques et _challenges_ qu’apporte ce nouveau type de développement, et comment les résoudre.  
 > Cette université sera agrémentée de plusieurs démonstrations afin de bien comprendre les tenants et aboutissants d’un développement _serverless_. Nous expliquerons aussi comment installer les différents outils pour que le public puisse repartir avec les éléments nécessaires pour reproduire les exemples de l'université et aller plus loin.
+
+[[Home]](../README.md)

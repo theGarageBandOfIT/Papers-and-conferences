@@ -7,13 +7,6 @@ List of public interventions :
 - podcasts
 - videocasts…
 
-## Table of contents
-
-- [Papers and Conferences](#Papers-and-Conferences)
-  - [Table of contents](#Table-of-contents)
-  - [Stats](#Stats)
-  - [Year 2019 / Année 2019](#Year-2019--Année-2019)
-
 ## Stats
 
 | Papers | 2019 # |
@@ -34,6 +27,8 @@ List of public interventions :
 | quickies           | 0 |
 
 ## Year 2019 / Année 2019
+
+### Conferences and workshops
 
 - [SnowCamp.io](conferences/SnowCamp2019.md)
 - [RivieraDev](conferences/RivieraDev2019.md)

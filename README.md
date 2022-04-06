@@ -34,3 +34,12 @@ List of public interventions :
 - [RivieraDev](conferences/RivieraDev2019.md)
 - [VoxxedDays Luxembourg](conferences/VoxxedLu2019.md)
 - [Sunny Tech](conferences/SunnyTech2019.md)
+
+## Year 2022 / Année 2022
+
+### Conferences and workshops
+
+- [SnowCamp.io](conferences/SnowCamp2022.md)
+- 📆 24-mar-2022 - [CoudSud](https://cloudsud.fr/)
+- 📆 5-apr-2022 - [Malt Academy](https://www.malt-academy.com/)
+- 📆 5-apr-2022 - [France DevOps](https://www.francedevops.fr/replays) meetup

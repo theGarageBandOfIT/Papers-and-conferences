@@ -39,7 +39,7 @@ List of public interventions :
 
 ### Conferences and workshops
 
-- [SnowCamp.io](conferences/SnowCamp2022.md)
+- 📆 2-feb-2022 - [SnowCamp.io](https://snowcamp2022.sched.com/event/qHQg/gitops-une-mise-en-situation-un-peu-realiste-sur-kubernetes-avec-fluxcd)
 - 📆 24-mar-2022 - [CoudSud](https://cloudsud.fr/)
 - 📆 5-apr-2022 - [Malt Academy](https://www.malt-academy.com/)
 - 📆 5-apr-2022 - [France DevOps](https://www.francedevops.fr/replays) meetup
